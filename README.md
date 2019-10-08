@@ -1,4 +1,11 @@
 # IR Controller
+This is a modified version of the original project to fulfill deployment using a Wemos D1 mini ESP8266 board. The modifications allow for an additional IR blaster and pinout that matches the breakout board from https://irblaster.info. This likely will not be updated in the future, so please do not rely on it.
+
+
+
+
+
+
 
 ESP8266 Compatible IR Blaster that accepts HTTP commands for use with services like Amazon's Alexa
 
